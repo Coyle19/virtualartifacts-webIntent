@@ -1,0 +1,17 @@
+{
+  "name": "virtualartifacts-webintent-master",
+  "version": "1.0.0",
+  "description": "Web intents for Cordova ============",
+  "cordova": {
+    "id": "com.virtualartifacts.webintent",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "intent",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "MIT"
+}
