@@ -1,5 +1,5 @@
 {
-  "name": "virtualartifacts-webintent-master",
+  "name": "com.borismus.webintent.WebIntent",
   "version": "1.0.0",
   "description": "Web intents for Cordova ============",
   "cordova": {
